@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://levespl.github.io/sitemap.html.gz
+Sitemap: https://levespl.github.io/app/sitemap.html.gz
+Sitemap: https://levespl.github.io/assets/sitemap.html.gz
+Sitemap: https://levespl.github.io/css/sitemap.html.gz
+Sitemap: https://levespl.github.io/data/sitemap.html.gz
+Sitemap: https://levespl.github.io/includes/sitemap.html.gz
+Sitemap: https://levespl.github.io/item/sitemap.html.gz
+Sitemap: https://levespl.github.io/src/sitemap.html.gz
